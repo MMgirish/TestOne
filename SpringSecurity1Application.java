@@ -8,6 +8,7 @@ public class SpringSecurity1Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringSecurity1Application.class, args);
+//adding some comment.. Just see tracked changes by git
 	}
 
 }
